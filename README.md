@@ -1,1 +1,1 @@
-# Image-Classification---Cifar-10
+# Image-Classification - Cifar-10
